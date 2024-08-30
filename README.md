@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @drraja159
+- 👀 I’m interested in healthcare innovation, AI-driven health solutions, and improving patient care through technology.
+- 🌱 I’m currently learning more about LLMs and its impact on healthcare.
+- 💞️ I’m looking to collaborate on projects related to telehealth, healthcare data analytics, and digital health solutions.
+- 📫 How to reach me: drraja159@gmail.com
+- 😊 Pronouns: He/Him
+- ⚡ Fun fact: I co-founded a telehealth platform during the COVID-19 pandemic.
